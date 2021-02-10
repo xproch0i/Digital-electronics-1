@@ -1,6 +1,6 @@
-# Digital-electronics-1
+# Nadpis prvni urovne
 
-## Nadpis druhe urovne
+## Nadpis druhe urovne s *italic* textem
 
 ```vhdl
 git status
