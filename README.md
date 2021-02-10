@@ -2,7 +2,7 @@
 
 ## Nadpis druhe urovne
 
-```
+```vhdl
 git status
 git add
 git commit
