@@ -2,7 +2,7 @@
 
 ## Nadpis druhe urovne s *italic* textem
 
-__bold__ text
+__zvyrazneny text__ s přikazem bold
 
 ```vhdl
 git status
