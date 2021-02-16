@@ -18,9 +18,9 @@ Seřazeny list
 1. Prvni
 2. Druhy
 3. Třetí
-  3. Třeti A
-  3. Třeti B
-    3. třeti BA
+   3. Třeti A
+   3. Třeti B
+      3. třeti BA
  
 ![Eddie](/eddie.jpg "Eddie")
 
