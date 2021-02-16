@@ -15,12 +15,12 @@ Neseřazeny list
     * věc 2ba
     
  Seřazeny list
- 1. Prvni
- 2. Druhy
- 3. Třetí
-    3. A Třeti A
-    3. B Třeti B
-        3.BA třeti BA
+1. Prvni
+2. Druhy
+3. Třetí
+  3. A Třeti A
+  3. B Třeti B
+    3. B A třeti BA
  
 ![Eddie](/eddie.jpg "Eddie")
 
