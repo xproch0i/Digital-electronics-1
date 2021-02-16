@@ -7,11 +7,20 @@ __zvyrazneny text__ s přikazem bold
 
 [Link se jménem](https://www.youtube.com/watch?v=QLd7lYUoaFc&list=RDQLd7lYUoaFc&index=1 "Remix na YouTube")
 
+Neseřazeny list
 * Věc 1
 * Věc 2
   * věc 2a
   * věc 2b
     * věc 2ba
+    
+ Seřazeny list
+ 1. Prvni
+ 2. Druhy
+ 3. Třetí
+   3. A Třeti A
+   3. B Třeti B
+     3.BA třeti BA
  
 ![Eddie](/eddie.jpg "Eddie")
 
