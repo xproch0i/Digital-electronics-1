@@ -20,7 +20,7 @@ Seřazeny list
 3. Třetí
    * Třeti A
    * Třeti B
-     -třeti BA
+     - třeti BA
  
 ![Eddie](/eddie.jpg "Eddie")
 
