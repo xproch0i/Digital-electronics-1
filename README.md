@@ -14,7 +14,7 @@ Neseřazeny list
   * věc 2b
     * věc 2ba
     
- Seřazeny list
+Seřazeny list
 1. Prvni
 2. Druhy
 3. Třetí
