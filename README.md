@@ -9,8 +9,8 @@ __zvyrazneny text__ s přikazem bold
 
 * Věc 1
 * Věc 2
- *věc 2a
- *věc 2b
+ * věc 2a
+ * věc 2b
  
 ![Eddie](/eddie.jpg "Eddie")
 
