@@ -8,11 +8,9 @@ __zvyrazneny text__ s přikazem bold
 [Link se jménem](https://www.youtube.com/watch?v=QLd7lYUoaFc&list=RDQLd7lYUoaFc&index=1 "Remix na YouTube")
 
 * Věc 1
-tady napíšu něco pod to
-* Věc dve 7
-a pak zkusim ještě něco tady
-* nezařazená věc
-1. Cože ?
+* Věc 2
+ *věc 2a
+ *věc 2b
  
 ![Eddie](/eddie.jpg "Eddie")
 
