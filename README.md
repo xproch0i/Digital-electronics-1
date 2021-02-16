@@ -5,6 +5,8 @@
 __zvyrazneny text__ s přikazem bold
 ~~Přeškrtnuty text.~~ pomocí ~~
 
+[Link se jménem](https://www.youtube.com/watch?v=QLd7lYUoaFc&list=RDQLd7lYUoaFc&index=1 "Remix na YouTube")
+
 ```vhdl
 git status
 git add
