@@ -13,6 +13,9 @@ tady napíšu něco pod to
 a pak zkusim ještě něco tady
 ..* nezařazená věc
 1. Cože ?
+ 
+![Eddie](/eddie.jpg "Eddie")
+
 
 ```vhdl
 git status
