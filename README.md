@@ -11,6 +11,7 @@ __zvyrazneny text__ s přikazem bold
 * Věc 2
   * věc 2a
   * věc 2b
+   * věc 2ba
  
 ![Eddie](/eddie.jpg "Eddie")
 
