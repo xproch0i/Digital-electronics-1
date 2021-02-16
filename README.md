@@ -31,6 +31,8 @@ Seřazeny list
  
 ![Eddie](/eddie.jpg "Eddie")
 
+https://github.com/xproch0i
+
 
 ```vhdl
 git status
