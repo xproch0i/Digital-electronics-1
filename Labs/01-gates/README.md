@@ -13,6 +13,7 @@ https://github.com/xproch0i/Digital-electronics-1
 | 1 | 1 | 0 | 0 |
 | 1 | 1 | 1 | 0 |
 
+<<<<<<< HEAD
 library IEEE;
 use IEEE.std_logic_1164.all;
 
@@ -43,3 +44,8 @@ begin
 end architecture dataflow;
 
 https://www.edaplayground.com/x/j5C3
+=======
+![Waveforms](/Labs/01-gates/waveforms.jpg)
+
+https://www.edaplayground.com/x/j5C3
+>>>>>>> c6f3907ef01b39c108c6b729f65cc53753e3caea
